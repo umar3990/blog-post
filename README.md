@@ -43,7 +43,6 @@ simple-php-blog/
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/simple-php-blog.git
    cd simple-php-blog
 
 2. Start the PHP development server:
@@ -63,20 +62,3 @@ simple-php-blog/
 - Full CRUD (Create, Read) for blog posts
 - Modular file structure
 
----
-
-## Contributing
-
-Pull requests are welcome. Feel free to fork and submit suggestions.
-
----
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-## Author
-
-Built by Your Name (https://github.com/your-username) as part of showcasing full-stack and backend skills for remote developer opportunities.
