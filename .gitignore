@@ -1,0 +1,21 @@
+# Ignore backup/temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Composer dependencies (if used)
+vendor/
+
+# Ignore environment files
+.env
+
+# Ignore IDE/project files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
